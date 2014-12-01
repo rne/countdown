@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/rne/countdown/issues"
   },
-  "homepage": "https://github.com/rne/countdown"
+  "homepage": "https://github.com/rne/countdown",
+  "dependencies": {
+    "jquery": ">=1.7",
+    "jquery-plugin": "1.0.1"
+  }
 }
